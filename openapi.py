@@ -2,7 +2,7 @@
 import requests
 import json
 
-SVR_PREFIX = "https://ac.aimall-tech.com/access_control/openapi"
+SVR_PREFIX = "https://ac.aimall-tech.com/openapi"
 APP_CODE = "your app code"
 
 HEADER = {
